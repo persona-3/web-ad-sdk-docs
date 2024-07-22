@@ -14,7 +14,7 @@ The SDK can be integrated in two ways:
 To load the Persona Ad SDK in your app and initialize an ad client, insert the following scripts in the `<head>` section of your app / page.
 
 ```
-<script src="https://cdn.jsdelivr.net/npm/@personaxyz/ad-sdk@0.0.24" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@personaxyz/ad-sdk@0.0.25" crossorigin="anonymous"></script>
 <script type="text/javascript">
     var personaConfig = {
         apiKey: "XXXX_api_key_staging_XXXX", // An actual API key is generated once you register an app with us.
@@ -93,7 +93,7 @@ For testing all available ad dimensions, the following ad unit ids can be used i
 To install the sdk , run the following command
 
 ```
-npm install @personaxyz/ad-sdk@0.0.24
+npm install @personaxyz/ad-sdk@0.0.25
 ```
 
 To integrate the sdk, follow these steps
