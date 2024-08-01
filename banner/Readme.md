@@ -77,9 +77,11 @@ For testing all available ad dimensions, the following ad unit ids can be used i
 
 ```
 1. 600x160 - cf20c750-2fe4-4761-861f-b73b2247fd4d
-2. 300x250 - bf498e26-eb16-4e35-8954-e65690f28819
-3. 970x90 - 3a094192-4c7b-4761-a50c-bd9b6a67e987
-4. 321x101 - e6b82a11-6a94-46c0-a9d2-cf730159a5e6
+2. 160x600 - e5ae0d72-122f-4605-a54d-8d6498af1be9
+3. 300x250 - bf498e26-eb16-4e35-8954-e65690f28819
+4. 970x90 - 3a094192-4c7b-4761-a50c-bd9b6a67e987
+5. 728x90 - 6b76a652-a34d-4c29-8e0b-755253521d0a
+6. 320x100 - bae673ee-aae0-4e84-8c65-df481aa56c19
 ```
 
 **NOTE** : The above is just a sample implementation using values for **staging** environment.
@@ -187,9 +189,11 @@ The following examples include sample **React.js** and **Vue.js** implementation
 Api Key - XXXX_api_key_staging_XXXX
 Ad Unit Ids -
 1. 600x160 - cf20c750-2fe4-4761-861f-b73b2247fd4d
-2. 300x250 - bf498e26-eb16-4e35-8954-e65690f28819
-3. 970x90 - 3a094192-4c7b-4761-a50c-bd9b6a67e987
-4. 321x101 - e6b82a11-6a94-46c0-a9d2-cf730159a5e6
+2. 160x600 - e5ae0d72-122f-4605-a54d-8d6498af1be9
+3. 300x250 - bf498e26-eb16-4e35-8954-e65690f28819
+4. 970x90 - 3a094192-4c7b-4761-a50c-bd9b6a67e987
+5. 728x90 - 6b76a652-a34d-4c29-8e0b-755253521d0a
+6. 320x100 - bae673ee-aae0-4e84-8c65-df481aa56c19
 ```
 
 ## Sample React.js Implementation
