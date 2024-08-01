@@ -161,9 +161,11 @@ adClient.showBannerAd({
 #### Supported banner Ad Formats
 
 1. 600x160
-2. 300x250
-3. 970x90
-4. 321x101
+2. 160x600
+3. 300x250
+4. 970x90
+5. 728x90
+6. 320x100
 
 **NOTE**: An ad's dimensions can be configured while creating an ad unit
 
